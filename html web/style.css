@@ -1,0 +1,47 @@
+<style>
+
+body {
+  background-color: lightblue;
+}
+
+h1 {color:blue; font-size:40px;text-align:center;}
+h2 {color:rgba(184, 108, 108, 0.452); font-size:35px;text-align:center;}
+h3 {color:rgb(0, 255, 115); font-size:30px;text-align:center;}
+h4 {color:rgb(255, 0, 0); font-size:25px;text-align:center;}
+h5 {color:rgb(255, 0, 234); font-size:20px;text-align:center;}
+h6 {color:rgb(38, 0, 255); font-size:15px;text-align:center;}
+
+
+p{color:blue; font-size:40px;text-align:center;}
+
+img{
+    border-radius: 20px; position:sticky;
+}
+
+ui{
+  font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+button{color:rgb(255, 0, 0); font-size:35px;text-align:center; }
+button{color:red}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+
+</style>
